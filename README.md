@@ -1,2 +1,1 @@
-# pratica_git_flow`
-*Hola
+# pratica_git_flow
